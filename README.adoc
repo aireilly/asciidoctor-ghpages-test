@@ -1,4 +1,6 @@
 = Ironic Container Images for OCP
+:toc:
+:homepage: https://example.org
 
 == Introduction
 
