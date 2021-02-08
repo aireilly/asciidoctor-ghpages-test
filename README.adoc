@@ -1,26 +1,4 @@
 = Ironic Container Images for OCP
 
-== Ironic Asciidoc demo
-
 The Ironic Containers are container images built to be distributed with Openshift Container Platform. +
-They all come from the upstream https://metal3.io/[Metal3-io project], with some exceptions. +
-The images currently available are:
-
-|===
-|Name of the image|Content/Purpose|Distgit
-
-|https://github.com/openshift/ironic-image[ironic-image]|Ironic api and conductor|http://pkgs.devel.redhat.com/cgit/containers/ironic/[ironic]
-|https://github.com/openshift/ironic-inspector-image/[ironic-inspector-image]|Ironic Inspector components|http://pkgs.devel.redhat.com/cgit/containers/ironic-inspector/[ironic-inspector]
-|https://github.com/openshift/ironic-ipa-downloader[ironic-ipa-downloader]|Distribute the ironic python agent ramdisk|http://pkgs.devel.redhat.com/cgit/containers/ironic-ipa-downloader/[ironic-ipa-downloader]
-|https://github.com/openshift/ironic-rhcos-downloader[ironic-machine-os-downloader]|Distribute the os image|http://pkgs.devel.redhat.com/cgit/containers/ironic-rhcos-downloader/[ironic-rhcos-downloader]
-|https://github.com/openshift/ironic-hardware-inventory-recorder-image[ironic-hardware-inventory-recorder-image]|Ironic python agent hardware collector daemon|http://pkgs.devel.redhat.com/cgit/containers/ironic-hardware-inventory-recorder-image/[ironic-hardware-inventory-recorder-image]
-|https://github.com/openshift/ironic-static-ip-manager[ironic-static-ip-manager]|Set and maintain IP for provisioning pod|http://pkgs.devel.redhat.com/cgit/containers/ironic-static-ip-manager/[ironic-static-ip-manager]
-|===
-
-All the images have been enrolled as new elements using the following documentation: +
-https://docs.google.com/document/d/1SQ_qlkcplqhe8h6ONXdgBr7YUVbs4oRSj4ISl3gpLW4/edit#heading=h.78schrjzr3kg[Onboarding a new OpenShift Origin component for testing and merge automation] +
-Initial work tracked in:
-https://issues.redhat.com/browse/KNIDEPLOY-449[https://issues.redhat.com/browse/KNIDEPLOY-449]
-
-To discuss new features, issues, and the project in general, has been decided to hold a meeting once every 2 weeks +
-You can find more information on the recent topics of discussion https://docs.google.com/document/d/1aSiRfvWK13QoLatBObCSxDE9-PBGSMAcw389mpnxmEM/edit[here]
+They all come from the upstream https://metal3.io/[Metal3-io project], with some exceptions.
