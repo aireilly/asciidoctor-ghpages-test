@@ -1,8 +1,10 @@
 = Ironic Container Images for OCP test
 
-:toc:
-:homepage: https://example.org
+:toc: left
+:toclevels: 4
+//:homepage: https://example.org
 
+[id='intro']
 == Introduction
 
 The Ironic Containers are container images built to be distributed with Openshift Container Platform. +
@@ -28,7 +30,7 @@ https://issues.redhat.com/browse/KNIDEPLOY-449[https://issues.redhat.com/browse/
 To discuss new features, issues, and the project in general, has been decided to hold a meeting once every 2 weeks +
 You can find more information on the recent topics of discussion https://docs.google.com/document/d/1aSiRfvWK13QoLatBObCSxDE9-PBGSMAcw389mpnxmEM/edit[here]
 
-
+[id='conf']
 == Configuration Repositories
 
 * https://github.com/openshift/release[openshift/release: Release tooling for OpenShift Origin]
@@ -42,6 +44,7 @@ The workflow followed by the building process is: +
 os image --> base-os image --> ironic image (the final product) +
 We inject a builder in the final step (when building the real ironic image) using the “inputs” command to be able to call it in the final image with the name ironic-builder.
 
+[source,yaml]
 ----
 base_images:
   dev-scripts:
