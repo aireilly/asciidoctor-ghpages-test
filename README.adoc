@@ -1,4 +1,4 @@
-= Ironic Container Images for OCP test
+= Asciidoctor GH Pages test
 
 :toc: left
 :toclevels: 4
@@ -7,7 +7,7 @@
 [id='intro']
 == Introduction
 
-The Ironic Containers are container images built to be distributed with Openshift Container Platform. +
+The containers are container images built to be distributed with Openshift Container Platform. +
 They all come from the upstream https://metal3.io/[Metal3-io project], with some exceptions. +
 The images currently available are:
 
