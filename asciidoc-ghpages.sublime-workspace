@@ -236,6 +236,7 @@
 	],
 	"file_history":
 	[
+		"/home/aireilly/asciidoctor-ghpages-test/README.adoc",
 		"/home/aireilly/ironic-docs-demo/ironic-demo.adoc",
 		"/home/aireilly/jekyll-asciidoc-quickstart/README.adoc",
 		"/home/aireilly/antora-asciidoc-test/antora.yml",
@@ -244,7 +245,6 @@
 		"/home/aireilly/demo-ironic/README.adoc",
 		"/home/aireilly/jekyll-asciidoc-quickstart/.travis.yml",
 		"/home/aireilly/asciidoctor-ghpages-test/readme.adoc",
-		"/home/aireilly/asciidoctor-ghpages-test/README.adoc",
 		"/home/aireilly/asciidoctor-ghpages-test/README.md",
 		"/home/aireilly/asciidoctor-ghpages-test/entrypoint.sh",
 		"/home/aireilly/asciidoctor-ghpages-test/Dockerfile",

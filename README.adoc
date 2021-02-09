@@ -1,8 +1,6 @@
 = Asciidoctor GH Pages test
-
+Aidan Reilly
 :toc: left
-:toclevels: 4
-//:homepage: https://example.org
 
 [id='intro']
 == Introduction
