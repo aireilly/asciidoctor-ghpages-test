@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/asciidoc.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/asciidoc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/asciidoctor-preview.sublime-build",
+					""
+				],
+				[
+					"Packages/User/openshift-docs.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/asciidoctor-preview.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/openshift-docs.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/openshift-docs.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/MarkdownPreview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/openshift-docs.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/MarkdownPreview/Markdown.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: asciidoctor-preview"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"asciidoc",
+				"Build With: asciidoctor-preview"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"link",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"DISABLE",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Sidebar Block"
+			],
+			[
+				"Snippet: note",
+				"Snippet: Quote Block"
+			],
+			[
+				"install#",
+				"Package Control: Install Package"
+			],
+			[
+				"spell check",
+				"Google Spell Check"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"pandoc",
+				"Pandoc Converter"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pan",
+				"Pandoc Converter"
+			],
+			[
+				"previwew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pand",
+				"Pandoc Converter"
+			],
+			[
+				"pacakge",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakge ",
+				"Package Control: Install Package"
+			],
+			[
+				"makr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ascii",
+				"Set Syntax: AsciiDoc (Asciidoctor)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 235.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/aireilly/asciidoctor-ghpages-test"
+	],
+	"file_history":
+	[
+		"/home/aireilly/asciidoctor-ghpages-test/README.adoc",
+		"/home/aireilly/ironic-docs-demo/ironic-demo.adoc",
+		"/home/aireilly/jekyll-asciidoc-quickstart/README.adoc",
+		"/home/aireilly/antora-asciidoc-test/antora.yml",
+		"/home/aireilly/antora-asciidoc-test/antora-playbook.yml",
+		"/home/aireilly/demo-ironic/antora.yml",
+		"/home/aireilly/demo-ironic/README.adoc",
+		"/home/aireilly/jekyll-asciidoc-quickstart/.travis.yml",
+		"/home/aireilly/asciidoctor-ghpages-test/readme.adoc",
+		"/home/aireilly/asciidoctor-ghpages-test/README.md",
+		"/home/aireilly/asciidoctor-ghpages-test/entrypoint.sh",
+		"/home/aireilly/asciidoctor-ghpages-test/Dockerfile",
+		"/home/aireilly/asciidoctor-ghpages-test/action.yml",
+		"/home/aireilly/ironic-adoc-demo/ferramentas.sh",
+		"/home/aireilly/ironic-adoc-demo/Makefile",
+		"/home/aireilly/ironic-adoc-demo/README.adoc",
+		"/home/aireilly/ironic-container-images-for-ocp/modules/ROOT/ironic-demo.adoc",
+		"/home/aireilly/openshift-docs/modules/proc_installing-the-node-maintenance-operator.adoc",
+		"/home/aireilly/ironic-container-images-for-ocp/antora.yml",
+		"/home/aireilly/Desktop/ironic-demo.adoc",
+		"/home/aireilly/openshift-docs/modules/proc_installing-the-node-maintenance-operator2.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-managing-device-interrupt-processing-for-guaranteed-pod-isolated-cpus.adoc",
+		"/home/aireilly/openshift-docs/applications/modules/cnf-managing-device-interrupt-processing-for-guaranteed-pod-isolated-cpus.adoc",
+		"/home/aireilly/modules/cnf-managing-device-interrupt-processing-for-guaranteed-pod-isolated-cpus.adoc",
+		"/home/aireilly/openshift-docs/_preview/openshift-enterprise/CNF-846-ReleaseNote/scalability_and_performance/cnf-performance-addon-operator-for-low-latency-nodes.html",
+		"/home/aireilly/openshift-docs/modules/configuring_hyperthreading_for_a_cluster.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-provisioning-real-time-and-low-latency-workloads.adoc",
+		"/home/aireilly/openshift-docs/release_notes/ocp-4-7-release-notes.adoc",
+		"/home/aireilly/openshift-docs/networking/hardware_networks/configuring-sriov-device.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-upgrading-performance-addon-operator.adoc",
+		"/home/aireilly/openshift-docs/applications/application_life_cycle_management/odc-viewing-application-composition-using-topology-view.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-assigning-a-sriov-network-to-a-vrf.adoc",
+		"/home/aireilly/openshift-docs/modules/efk-logging-deploy-subscription.adoc",
+		"/home/aireilly/openshift-docs/networking/multiple_networks/assigning-a-secondary-network-to-a-vrf.adoc",
+		"/home/aireilly/openshift-docs/modules/about-crio.adoc",
+		"/home/aireilly/.config/sublime-text-3/Packages/User/asciidoc.sublime-build",
+		"/home/aireilly/openshift-docs/release_notes/ocp-4-3-release-notes.adoc",
+		"/home/aireilly/openshift-docs/updating/updating-cluster-rhel-compute.adoc",
+		"/home/aireilly/openshift-docs/updating/updating-cluster-between-minor.adoc",
+		"/home/aireilly/openshift-docs/release_notes/ocp-4-6-release-notes.adoc",
+		"/home/aireilly/Desktop/git.md",
+		"/home/aireilly/.config/sublime-text-3/Packages/User/asciidoctor-preview.sublime-build",
+		"/home/aireilly/openshift-docs/asciidoctor-preview.sh",
+		"/tmp/.fr-sV8JUU/asciidoc.sublime-build",
+		"/tmp/.fr-wkfa2O/asciidoc.sublime-build",
+		"/home/aireilly/Desktop/everyday.md",
+		"/tmp/.fr-TOiL2A/script/build",
+		"/home/aireilly/.config/sublime-text-3/Packages/User/openshift-docs.sublime-build",
+		"/home/aireilly/openshift-docs/antora-playbook.yml",
+		"/home/aireilly/openshift-docs/asciibinder-template.yml",
+		"/home/aireilly/openshift-docs/build.py",
+		"/home/aireilly/openshift-docs/build_for_portal.py",
+		"/home/aireilly/Desktop/OpenShift.md",
+		"/home/aireilly/Downloads/clusterserviceversion-performance-addon-operator.v4.5.2.yaml",
+		"/home/aireilly/Desktop/asciidoc_snippets.adoc",
+		"/home/aireilly/docs-site/antora-playbook.yml",
+		"/home/aireilly/openshift-docs/modules/admission-webhooks-about.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-installing-the-performance-addon-operator.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-tuning-nodes-for-low-latency-via-performanceprofile.adoc",
+		"/home/aireilly/sample.md",
+		"/home/aireilly/openshift-docs/managing-device-interrupt-processing-for-guaranteed-pod-isolated-cpus.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-use-device-interrupt-processing-for-isolated-cpus.adoc",
+		"/home/aireilly/.config/sublime-text-3/Packages/Asciidoctor/Asciidoctor.sublime-settings",
+		"/home/aireilly/openshift-docs/modules/cnf-about_hyperthreading_for_low_latency_and_real_time_applications.adoc",
+		"/home/aireilly/openshift-docs/modules/user-agent-configuring.adoc",
+		"/home/aireilly/openshift-docs/modules/about-etcd-encryption.adoc",
+		"/home/aireilly/openshift-docs/modules/vale.ini",
+		"/home/aireilly/openshift-docs/modules/cnf-configure_for_irq_dynamic_load_balancing.adoc",
+		"/home/aireilly/bin/vale.ini",
+		"/home/aireilly/openshift-docs/modules/cnf_enabling_interrupt_processing_for_individual_pods.adoc",
+		"/home/aireilly/openshift-docs/build-preview.sh",
+		"/home/aireilly/openshift-docs/modules/cnf-assigning-a-secondary-network-to-a-vrf.adoc",
+		"/home/aireilly/openshift-docs/scripts/ocp_preview.sh",
+		"/home/aireilly/openshift-docs/scripts/push_to_netlify.sh",
+		"/home/aireilly/openshift-docs/modules/cnf-configuring-huge-pages.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-creating-the-performance-profile-object.adoc",
+		"/home/aireilly/Desktop/tshift-sizing.md",
+		"/home/aireilly/openshift-docs/networking/multiple_networks/understanding-multiple-networks.adoc",
+		"/home/aireilly/openshift-docs/modules/nw-multus-remove-pod.adoc",
+		"/home/aireilly/.bash/git-aware-prompt/colors.sh",
+		"/home/aireilly/Desktop/cnf-performance-addon-operator-for-low-latency-nodes.adoc",
+		"/home/aireilly/openshift-docs/scalability_and_performance/cnf-performance-addon-operator-for-low-latency-nodes.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-allocating-multiple-huge-page-sizes.adoc",
+		"/home/aireilly/openshift-docs/modules/ossm-rn-technology-preview.adoc",
+		"/home/aireilly/openshift-docs/modules/virt-creating-pvcs-to-store-default-os-images.adoc",
+		"/home/aireilly/openshift-docs/modules/virt-uploading-image-web.adoc",
+		"/home/aireilly/openshift-docs/scalability_and_performance/recommended-cluster-scaling-practices.adoc",
+		"/home/aireilly/openshift-docs/scalability_and_performance/recommended-install-practices.adoc",
+		"/home/aireilly/openshift-docs/scalability_and_performance/optimizing-networking.adoc",
+		"/home/aireilly/openshift-docs/modules/recommended-scale-practices.adoc",
+		"/home/aireilly/aidans-doc-updates/TELCODOCS-146.md",
+		"/home/aireilly/Desktop/Sphere of influence.md",
+		"/home/aireilly/Desktop/sines.lua",
+		"/home/aireilly/openshift-docs/modules/nw-sriov-dpdk-example-mellanox.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-about-virtual-routing-and-forwarding.adoc",
+		"/home/aireilly/openshift-docs/modules/nw-egress-router-pod.adoc",
+		"/home/aireilly/openshift-docs/modules/ossm-automatic-sidecar-injection.adoc",
+		"/home/aireilly/openshift-docs/modules/serverless-install-eventing-web-console.adoc",
+		"/home/aireilly/openshift-docs/modules/serverless-install-kafka-odc.adoc",
+		"/home/aireilly/openshift-docs/modules/serverless-install-serving-web-console.adoc",
+		"/home/aireilly/openshift-docs/networking/multiple_networks/about-virtual-routing-and-forwarding.adoc",
+		"/home/aireilly/openshift-docs/networking/multiple_networks/attaching-pod.adoc",
+		"/home/aireilly/openshift-docs/networking/modules/about-sosreport.adoc",
+		"/home/aireilly/Desktop/build-preview.sh",
+		"/home/aireilly/openshift-docs/networking/assigning-a-secondary-network-to-a-vrf.adoc",
+		"/home/aireilly/openshift-docs/modules/nw-multus-macvlan-object.adoc",
+		"/home/aireilly/openshift-docs/networking/hardware_networks/about-sriov.adoc",
+		"/home/aireilly/openshift-docs/modules/nw-sriov-configuring-device.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-about-vrf-and-cni.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-assigning-an-sr-iov-network-to-a-vrf.adoc",
+		"/home/aireilly/openshift-docs/architecture/admission-plug-ins.adoc",
+		"/home/aireilly/openshift-docs/welcome/index.adoc",
+		"/home/aireilly/openshift-docs/modules/nw-ne-openshift-dns.adoc",
+		"/home/aireilly/openshift-docs/networking/multiple_networks/configuring-sr-iov.adoc",
+		"/home/aireilly/openshift-docs/security/container_security/security-network.adoc",
+		"/home/aireilly/openshift-docs/modules/installation-osp-kuryr-octavia-configuration.adoc",
+		"/home/aireilly/openshift-docs/modules/common-attributes.adoc",
+		"/home/aireilly/openshift-docs/modules/cnf-846.adoc",
+		"/home/aireilly/openshift-docs/scalability_and_performance/using-cluster-loader.adoc",
+		"/home/aireilly/aidans-doc-updates/CNF-1121.md",
+		"/home/aireilly/aidans-doc-updates/CNF-581.md",
+		"/home/aireilly/aidans-doc-updates/CNF-802.md",
+		"/home/aireilly/aidans-doc-updates/CNF-849.md",
+		"/home/aireilly/openshift-docs/cnv/cnv_virtual_machines/cnv-accessing-vm-consoles.adoc",
+		"/home/aireilly/openshift-docs/modules/installation-configuration-parameters.adoc",
+		"/home/aireilly/openshift-docs/installing/installing_bare_metal/installing-bare-metal.adoc",
+		"/home/aireilly/openshift-docs/modules/configuring-three-node-cluster-pao.adoc",
+		"/home/aireilly/aidans-doc-updates/CNF-929.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 151.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 202.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 202.0
+	},
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"output.find_results":
+	{
+		"height": 202.0
+	},
+	"output.markdown":
+	{
+		"height": 202.0
+	},
+	"pinned_build_system": "",
+	"project": "asciidoc-ghpages.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/everyday.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 84.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 740.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
